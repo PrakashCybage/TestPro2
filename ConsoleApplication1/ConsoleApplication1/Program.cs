@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is master branch.");
+            Console.WriteLine("This is Feature 3.");
         }
     }
 }
